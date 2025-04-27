@@ -36,3 +36,6 @@ The Network Scanner project provides a practical introduction to network program
 - **Integration with Other Tools**: Integrate the network scanner with other network analysis tools or frameworks.
 
 - **Security Features**: Add features to detect unauthorized devices on the network or alert users about potential security risks.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/Network-Scanner/blob/main/LICENSE) file for details.
